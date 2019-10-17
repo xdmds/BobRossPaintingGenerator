@@ -1,0 +1,1 @@
+Place training data ('.png' format) in this directory
